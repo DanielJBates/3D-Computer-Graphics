@@ -1,0 +1,74 @@
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\DBate\Documents\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\fSimple.frag
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vACW.vert
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\Cube.sjg
+D:\Uni Work\602854\500079\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\Pyramid.sjg
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\fACW.frag
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vACW.vert
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\Pyramid.sjg
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\Cube.sjg
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+D:\GitHub\Uni-Projects\Year 2 Term 2\3D Computer Graphics\ACW\ACW\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
